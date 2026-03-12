@@ -5,11 +5,23 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+
+**Nông Trại Xanh** là game nông trại 2D viết bằng Flutter, lấy cảm hứng từ phong cách *Stardew Valley*.
+Người chơi tiếp nhận mảnh đất từ bà ngoại, dần dần xây dựng nông trại, chăm sóc vật nuôi, câu cá, hoàn thành nhiệm vụ hằng ngày và leo cấp để mở khóa cây trồng & vật nuôi mới.
+
+
 > **"Chữa lành tâm hồn - Thử thách công nghệ."** 🌿
 >
 >Không chỉ dừng lại ở một tựa game mang nhịp độ chậm rãi giúp gác lại âu lo, Nông Trại Xanh còn là một bài toán công nghệ đầy thách thức. Bằng việc tối ưu triệt để Flutter thuần, nhóm đã "hô biến" một nền tảng thiết kế giao diện thành một cỗ máy vận hành Game 2D mượt mà ở mức 60FPS. Một hệ sinh thái hoàn chỉnh được dựng lên từ những dòng code nguyên bản nhất, nói không hoàn toàn với các Game Engine đồ sộ.
 
 ---
+
+## 👨‍💻 Thông tin sinh viên
+
+Dự án được phát triển bởi nhóm 2 thành viên:
+- **Nguyễn Thị Thu Giang** - 23010871
+- **Ngô Thị Minh Phương**  - 23012156
+
 
 ## 🎮 Trải nghiệm ngay (Live Demo)
 👉 **Chơi trực tiếp trên Web (PC hoặc điện thoại):** [https://gamenongtraixanh.netlify.app/](https://gamenongtraixanh.netlify.app/)

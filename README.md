@@ -83,3 +83,17 @@ flutter run -d chrome
 <img width="45%" alt="Screenshot 5" src="https://github.com/user-attachments/assets/4f195968-6299-4c50-8f89-87b3d2508596" />
 <img width="45%" alt="Screenshot 6" src="https://github.com/user-attachments/assets/f8eba376-6a23-4785-830e-4030f9d7d98e" />
 </div>
+
+
+
+
+## 👨‍💻 Thông tin sinh viên
+**Sản phẩm là Đồ án cơ sở, được thực hiện bằng cả tâm huyết bởi:**
+
+**Nguyễn Thị Thu Giang** (MSSV: 23010871)
+
+**Ngô Thị Minh Phương** (MSSV: 23012156)
+
+Giảng viên hướng dẫn: **TS. Trịnh Thanh Bình**
+
+💖 Cảm ơn thầy và các bạn đã dành thời gian khám phá Nông Trại Xanh. Chúc mọi người có những phút giây thư giãn thật tuyệt vời!

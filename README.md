@@ -6,8 +6,10 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 > **"Chữa lành tâm hồn - Thử thách công nghệ."** 🌿
-> 
-> Nông Trại Xanh không đơn thuần là một tựa game giải trí. Đây là minh chứng cho sức mạnh của **Flutter thuần**, nơi nhóm phát triển đã vượt qua giới hạn của một UI Framework để xây dựng một thế giới Game 2D mượt mà 60FPS **hoàn toàn không phụ thuộc vào bất kỳ Game Engine nào**.
+>
+>  **"Gieo mầm bình yên – Gặt hái đỉnh cao kỹ thuật."**🌿
+
+>Không chỉ dừng lại ở một tựa game mang nhịp độ chậm rãi giúp gác lại âu lo, Nông Trại Xanh còn là một bài toán công nghệ đầy thách thức. Bằng việc tối ưu triệt để Flutter thuần, nhóm đã "hô biến" một nền tảng thiết kế giao diện thành một cỗ máy vận hành Game 2D mượt mà ở mức 60FPS. Một hệ sinh thái hoàn chỉnh được dựng lên từ những dòng code nguyên bản nhất, nói không hoàn toàn với các Game Engine đồ sộ.
 
 ---
 

@@ -72,3 +72,14 @@ flutter pub get
 
 # 3. Chạy game (Khuyên dùng trình duyệt Chrome)
 flutter run -d chrome
+```
+
+
+<div align="center">
+<img width="45%" alt="Screenshot 1" src="https://github.com/user-attachments/assets/cb4caea3-9fa2-4d7e-9ae4-2a55ef712047" />
+<img width="45%" alt="Screenshot 2" src="https://github.com/user-attachments/assets/2e299412-ea32-4491-a113-d8de6127c933" />
+<img width="45%" alt="Screenshot 3" src="https://github.com/user-attachments/assets/e436c4c1-a3d3-4f77-9222-ca582ebc93f8" />
+<img width="45%" alt="Screenshot 4" src="https://github.com/user-attachments/assets/9421cdbf-e2a2-4d63-90ec-b37d63d99a6e" />
+<img width="45%" alt="Screenshot 5" src="https://github.com/user-attachments/assets/4f195968-6299-4c50-8f89-87b3d2508596" />
+<img width="45%" alt="Screenshot 6" src="https://github.com/user-attachments/assets/f8eba376-6a23-4785-830e-4030f9d7d98e" />
+</div>

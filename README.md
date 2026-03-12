@@ -12,7 +12,7 @@
 ---
 
 ## 🎮 Trải nghiệm ngay (Live Demo)
-👉 **Chơi trực tiếp trên Web (Khuyên dùng PC):** [https://gamenongtraixanh.netlify.app/](https://gamenongtraixanh.netlify.app/)
+👉 **Chơi trực tiếp trên Web (PC hoặc điện thoại):** [https://gamenongtraixanh.netlify.app/](https://gamenongtraixanh.netlify.app/)
 
 ---
 

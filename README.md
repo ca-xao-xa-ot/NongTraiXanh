@@ -93,13 +93,13 @@ flutter run -d chrome
 
 
 ## 👥 ĐỘI NGŨ PHÁT TRIỂN (Team 6)
-Sản phẩm là Đồ án Học phần Lập trình di động, được thực hiện bằng cả tâm huyết bởi:
+**Sản phẩm là Đồ án Học phần Lập trình di động, được thực hiện bằng cả tâm huyết bởi:**
 
-Ngô Thị Minh Phương (MSSV: 23012156)
+**Ngô Thị Minh Phương** (MSSV: 23012156)
 
-Nguyễn Thị Thu (MSSV: 23010871)
+**Nguyễn Thị Thu Giang**(MSSV: 23010871)
 
-Giảng viên hướng dẫn: TS. Trịnh Thanh Bình
+**Giảng viên hướng dẫn: TS. Trịnh Thanh Bình**
 
 💖 Cảm ơn thầy và các bạn đã dành thời gian khám phá Nông Trại Xanh. Chúc mọi người có những phút giây thư giãn thật tuyệt vời!
 

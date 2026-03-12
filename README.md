@@ -73,9 +73,12 @@ flutter run -d chrome
 ## 📸 Hình ảnh Game (Screenshots)
 <img width="454" height="321" alt="Picture1 2" src="https://github.com/user-attachments/assets/cb4caea3-9fa2-4d7e-9ae4-2a55ef712047" />
 
-<img width="454" height="314" alt="Picture3" src="https://github.com/user-attachments/assets/2e299412-ea32-4491-a113-d8de6127c933" />
+<img width="454" height="314" alt="Picture3" src="https://github.com/user-attachments/assets/2e299412-ea32-4491-a113-d8de6127c933" />\
+
 <img width="454" height="313" alt="Picture5" src="https://github.com/user-attachments/assets/e436c4c1-a3d3-4f77-9222-ca582ebc93f8" />
+
 <img width="454" height="313" alt="Picture4" src="https://github.com/user-attachments/assets/9421cdbf-e2a2-4d63-90ec-b37d63d99a6e" />
+
 <img width="454" height="316" alt="Picture7" src="https://github.com/user-attachments/assets/4f195968-6299-4c50-8f89-87b3d2508596" />
 
 <img width="454" height="313" alt="Picture8" src="https://github.com/user-attachments/assets/f8eba376-6a23-4785-830e-4030f9d7d98e" />
@@ -84,7 +87,7 @@ flutter run -d chrome
 
 
 ## 👥 ĐỘI NGŨ PHÁT TRIỂN (Team 6)
-**Sản phẩm là Đồ án Học phần Lập trình di động, được thực hiện bằng cả tâm huyết bởi:**
+**Sản phẩm là Đồ án cơ sở, được thực hiện bằng cả tâm huyết bởi:**
 
 **Ngô Thị Minh Phương** (MSSV: 23012156)
 

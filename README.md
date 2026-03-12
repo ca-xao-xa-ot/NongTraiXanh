@@ -74,7 +74,7 @@ flutter pub get
 flutter run -d chrome
 ```
 
-
+## 📸 Hình ảnh Game (Screenshots)
 <div align="center">
 <img width="45%" alt="Screenshot 1" src="https://github.com/user-attachments/assets/cb4caea3-9fa2-4d7e-9ae4-2a55ef712047" />
 <img width="45%" alt="Screenshot 2" src="https://github.com/user-attachments/assets/2e299412-ea32-4491-a113-d8de6127c933" />

@@ -76,3 +76,8 @@ flutter pub get
 
 # 3. Chạy game (Khuyên dùng trên Chrome)
 flutter run -d chrome
+
+---
+
+## 📸 Hình ảnh Game (Screenshots)<img width="454" height="321" alt="Picture1 2" src="https://github.com/user-attachments/assets/b1874b91-a5a8-45de-8c70-2b0d60bd9c58" />
+

@@ -89,5 +89,14 @@ flutter run -d chrome
 
 <img width="454" height="313" alt="Picture8" src="https://github.com/user-attachments/assets/f8eba376-6a23-4785-830e-4030f9d7d98e" />
 
+👥 ĐỘI NGŨ PHÁT TRIỂN (Team 6)
+Sản phẩm là Đồ án Học phần Lập trình di động, được thực hiện bằng cả tâm huyết bởi:
 
+Ngô Thị Minh Phương (MSSV: 23012156)
+
+Nguyễn Thị Thu (MSSV: 23010871)
+
+Giảng viên hướng dẫn: TS. Trịnh Thanh Bình
+
+💖 Cảm ơn thầy và các bạn đã dành thời gian khám phá Nông Trại Xanh. Chúc mọi người có những phút giây thư giãn thật tuyệt vời!
 

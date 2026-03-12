@@ -24,6 +24,10 @@ Giảng viên hướng dẫn: **TS. Trịnh Thanh Bình**
 
 💖 Cảm ơn thầy và các bạn đã dành thời gian khám phá Nông Trại Xanh. Chúc mọi người có những phút giây thư giãn thật tuyệt vời!
 
+---
+
+
+
 ## 🎮 Trải nghiệm ngay (Live Demo)
 👉 **Chơi trực tiếp trên Web (PC hoặc điện thoại):** [https://gamenongtraixanh.netlify.app/](https://gamenongtraixanh.netlify.app/)
 
@@ -98,15 +102,4 @@ flutter run -d chrome
 
 ---
 
-
-## 👥 ĐỘI NGŨ PHÁT TRIỂN (Team 6)
-**Sản phẩm là Đồ án cơ sở, được thực hiện bằng cả tâm huyết bởi:**
-
-**Ngô Thị Minh Phương** (MSSV: 23012156)
-
-**Nguyễn Thị Thu Giang**(MSSV: 23010871)
-
-Giảng viên hướng dẫn: **TS. Trịnh Thanh Bình**
-
-💖 Cảm ơn thầy và các bạn đã dành thời gian khám phá Nông Trại Xanh. Chúc mọi người có những phút giây thư giãn thật tuyệt vời!
 

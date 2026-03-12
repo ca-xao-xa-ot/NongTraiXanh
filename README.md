@@ -5,30 +5,15 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-
-**Nông Trại Xanh** là game nông trại 2D viết bằng Flutter, lấy cảm hứng từ phong cách *Stardew Valley*.
-Người chơi tiếp nhận mảnh đất từ bà ngoại, dần dần xây dựng nông trại, chăm sóc vật nuôi, câu cá, hoàn thành nhiệm vụ hằng ngày và leo cấp để mở khóa cây trồng & vật nuôi mới.
+**Nông Trại Xanh** là game nông trại 2D viết bằng Flutter, lấy cảm hứng từ phong cách *Stardew Valley*. Người chơi tiếp nhận mảnh đất từ bà ngoại, dần dần xây dựng nông trại, chăm sóc vật nuôi, câu cá, hoàn thành nhiệm vụ hằng ngày và leo cấp để mở khóa cây trồng & vật nuôi mới.
 
 ---
-
 
 > **"Chữa lành tâm hồn - Thử thách công nghệ."** 🌿
 >
->Không chỉ dừng lại ở một tựa game mang nhịp độ chậm rãi giúp gác lại âu lo, Nông Trại Xanh còn là một bài toán công nghệ đầy thách thức. Bằng việc tối ưu triệt để Flutter thuần, nhóm đã "hô biến" một nền tảng thiết kế giao diện thành một cỗ máy vận hành Game 2D mượt mà ở mức 60FPS. Một hệ sinh thái hoàn chỉnh được dựng lên từ những dòng code nguyên bản nhất, nói không hoàn toàn với các Game Engine đồ sộ.
+> Không chỉ dừng lại ở một tựa game mang nhịp độ chậm rãi giúp gác lại âu lo, Nông Trại Xanh còn là một bài toán công nghệ đầy thách thức. Bằng việc tối ưu triệt để **Flutter thuần**, nhóm đã "hô biến" một nền tảng thiết kế giao diện thành một cỗ máy vận hành Game 2D mượt mà ở mức 60FPS. Một hệ sinh thái hoàn chỉnh được dựng lên từ những dòng code nguyên bản nhất, hoàn toàn không phụ thuộc vào bất kỳ Game Engine đồ sộ nào.
 
 ---
-
-## 👨‍💻 Thông tin sinh viên
-**Sản phẩm là Đồ án cơ sở, được thực hiện bằng cả tâm huyết bởi:**
-- **Nguyễn Thị Thu Giang** - 23010871
-- **Ngô Thị Minh Phương**  - 23012156
-- Giảng viên hướng dẫn: **TS. Trịnh Thanh Bình**
-
-💖 Cảm ơn thầy và các bạn đã dành thời gian khám phá Nông Trại Xanh. Chúc mọi người có những phút giây thư giãn thật tuyệt vời!
-
----
-
-
 
 ## 🎮 Trải nghiệm ngay (Live Demo)
 👉 **Chơi trực tiếp trên Web (PC hoặc điện thoại):** [https://gamenongtraixanh.netlify.app/](https://gamenongtraixanh.netlify.app/)
@@ -87,21 +72,3 @@ flutter pub get
 
 # 3. Chạy game (Khuyên dùng trình duyệt Chrome)
 flutter run -d chrome
-```
-
-## 📸 Hình ảnh Game (Screenshots)
-<img width="454" height="321" alt="Picture1 2" src="https://github.com/user-attachments/assets/cb4caea3-9fa2-4d7e-9ae4-2a55ef712047" />
-
-<img width="454" height="314" alt="Picture3" src="https://github.com/user-attachments/assets/2e299412-ea32-4491-a113-d8de6127c933" />\
-
-<img width="454" height="313" alt="Picture5" src="https://github.com/user-attachments/assets/e436c4c1-a3d3-4f77-9222-ca582ebc93f8" />\
-
-<img width="454" height="313" alt="Picture4" src="https://github.com/user-attachments/assets/9421cdbf-e2a2-4d63-90ec-b37d63d99a6e" />\
-
-<img width="454" height="316" alt="Picture7" src="https://github.com/user-attachments/assets/4f195968-6299-4c50-8f89-87b3d2508596" />\
-
-<img width="454" height="313" alt="Picture8" src="https://github.com/user-attachments/assets/f8eba376-6a23-4785-830e-4030f9d7d98e" />
-
----
-
-

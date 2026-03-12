@@ -1,60 +1,78 @@
-# 🌾 Nông Trại Xanh - v10
+# 🌾 Nông Trại Xanh (Green Farm) - Healing 2D Game
 
-## ✨ Cập nhật v10
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-### 🎨 UI/UX Cải tiến
-- **Auth Screen**: Giao diện đăng nhập/đăng ký hoàn toàn mới - cute pastel với hiệu ứng nổi bồng bềnh
-  - Xóa chữ "v9-cloud save" và thông báo hạn chế tài khoản
-  - Background động với hoa, sao lấp lánh
-  - Button gradient đẹp với shadow glow
-- **Intro/NPC Screen**: NPC bà nội dễ thương với animation bounce
-  - Speech bubble với progress dots
-  - Background scene có nhà, cây, mây động
-  - Name input card cute với gradient
-- **Game Screen**: Nút FAB gradient nhiều màu theo chức năng
-  - Toast notification đẹp hơn với gradient xanh
-  - Fishing overlay với border phát sáng
-  - D-pad không đổi (đã tốt)
-- **HUD**: Gradient glass-morphism, EXP bar với glow effect
-  - Badge level vàng, badge ngày theo thời gian (ngày/đêm)
-  - Inventory chips chỉ hiện khi có vật phẩm
-- **Toolbar**: Gradient background, nút tool được chọn có glow vàng
-- **Shop**: Header gradient xanh đẹp, seed card màu pastel theo loại cây
-  - Badge MỚI / HIẾM, animal card màu theo loại
+> **"Chữa lành tâm hồn sau những giờ học tập và làm việc căng thẳng."** 🌿
+> 
+> Đồ án Game mô phỏng Nông trại 2D được xây dựng bằng **Flutter thuần** (sử dụng `CustomPainter`), không dùng Game Engine. Game có đồ họa Cute Pastel, hiệu ứng mượt mà và tính năng lưu trữ đám mây Real-time.
 
-### 🌱 Cây Trồng Mới (5 loại)
-- 🫐 **Việt Quất** - Lv 16, 70🪙 hạt, 180🪙 thu hoạch
-- 🍑 **Đào** - Lv 20, 65🪙 hạt, 160🪙 thu hoạch
-- 💜 **Oải Hương** - Lv 14, 50🪙 hạt, 130🪙 thu hoạch
-- 🌶️ **Ớt** - Lv 11, 45🪙 hạt, 115🪙 thu hoạch
-- 🥬 **Bắp Cải** - Lv 3, 25🪙 hạt, 70🪙 thu hoạch
+---
 
-### 🐾 Vật Nuôi Mới (3 loài)
-- 🐴 **Ngựa** - Lv 25, 450🪙, cho Sữa ngựa 🥛 (150🪙/lần)
-- 🦚 **Công** - Lv 22, 380🪙, cho Lông đuôi 🪶 (130🪙/lần)
-- 🦃 **Gà Tây** - Lv 12, 200🪙, cho Trứng lớn 🥚 (55🪙/lần)
+## 🎮 Trải nghiệm ngay (Live Demo)
+👉 **Chơi trực tiếp trên Web (PC/Mobile):** [https://gamenongtraixanh.netlify.app/](https://gamenongtraixanh.netlify.app/)
 
-### 🏠 Ngôi Nhà Nâng Cấp
-- **Bếp Nấu** 🍳: Nấu 5 món ăn với buff khác nhau
-  - Salad Tươi → +10% tốc độ thu hoạch
-  - Canh Rau → +20 năng lượng
-  - Bánh Dâu → +50 EXP thưởng
-  - Bí Ngô Nướng → +100 vàng
-  - Sữa Mật Ong → +30% năng suất vật nuôi
-- **Kệ Sách** 📚: Xem mẹo chơi hay
-- **Tivi** 📺: Bản tin nông trại vui
-- **Bể Cá** 🐠: Trang trí đẹp
-- **Mèo Kitty** 🐱: Vuốt ve nhận thông điệp cute
-- **Chậu Hoa** 🌺: Trang trí nhà
-- **Nhạc Nền** 🎵: Bật/tắt nhạc từ trong nhà
-- **Thống Kê** 📊: Xem stats ngay trong nhà
+---
 
-## Cách chạy
+## ✨ Điểm nhấn Giao diện (UI/UX Cải tiến)
+Giao diện được thiết kế theo phong cách **Cute Pastel** cực kỳ đáng yêu:
+* 🎨 **Hiệu ứng Glass-morphism:** Các bảng HUD, Thanh EXP và thanh công cụ (Toolbar) có hiệu ứng kính mờ, đổ bóng (shadow glow) đa sắc.
+* 🌟 **Background động:** Màn hình đăng nhập và NPC giới thiệu có mây bay, sao lấp lánh và hiệu ứng nảy (bounce animation) sống động.
+* 🔔 **Tương tác mượt mà:** Nút bấm Gradient, Toast notification xanh mát, và Inventory Chips thông minh chỉ hiện khi có vật phẩm.
+
+---
+
+## 🌻 Hệ thống Nông trại & Chăn nuôi Đa dạng
+Người chơi có thể tương tác (Cuốc, Gieo, Tưới, Thu hoạch) với hệ thống cây trồng và vật nuôi phong phú, mở khóa theo Cấp độ (Level):
+
+### 🌱 Cây Trồng
+Ngoài các cây cơ bản, cập nhật bổ sung 5 loại cây trồng giá trị cao:
+- 🥬 **Bắp Cải:** (Lv 3) - Thu hoạch: 70🪙
+- 🌶️ **Ớt:** (Lv 11) - Thu hoạch: 115🪙
+- 💜 **Oải Hương:** (Lv 14) - Thu hoạch: 130🪙
+- 🍑 **Đào:** (Lv 20) - Thu hoạch: 160🪙
+- 🫐 **Việt Quất:** (Lv 16) - Thu hoạch: 180🪙
+
+### 🐾 Vật Nuôi (Tích hợp AI Roaming)
+Vật nuôi di chuyển tự do, biết đói và đẻ ra nông sản. Cập nhật 3 loài mới:
+- 🦃 **Gà Tây:** (Lv 12) - Cho Trứng lớn 🥚 (55🪙/lần)
+- 🦚 **Công:** (Lv 22) - Cho Lông đuôi 🪶 (130🪙/lần)
+- 🐴 **Ngựa:** (Lv 25) - Cho Sữa ngựa 🥛 (150🪙/lần)
+
+---
+
+## 🏠 Ngôi Nhà Nâng Cấp (House System)
+Khu vực Nhà ở với hàng loạt tương tác thú vị giúp gia tăng trải nghiệm:
+- 🍳 **Bếp Nấu Ăn (Cooking System):** Nấu ăn để nhận các Buff lợi ích:
+  - 🥗 *Salad Tươi* → +10% Tốc độ thu hoạch
+  - 🍲 *Canh Rau* → +20 Năng lượng
+  - 🍰 *Bánh Dâu* → +50 EXP thưởng
+  - 🎃 *Bí Ngô Nướng* → +100 Vàng
+  - 🍯 *Sữa Mật Ong* → +30% Năng suất vật nuôi
+- 🐱 **Pet Mèo Kitty:** Vuốt ve để nhận những thông điệp dễ thương.
+- 📺 **Tương tác khác:** Bật/Tắt nhạc nền 🎵, Xem Bản tin nông trại trên Tivi, Đọc mẹo chơi ở Kệ sách 📚, Xem Thống kê 📊.
+
+---
+
+## 🛠️ Công nghệ sử dụng (Tech Stack)
+* **Frontend:** Flutter & Dart.
+* **Đồ họa Render:** Thư viện `CustomPainter` vẽ vòng đời cây trồng đạt 60 FPS.
+* **Quản lý Trạng thái:** Kiến trúc `Provider`.
+* **Backend & Lưu trữ:** Firebase Firestore (Cloud Save Real-time) & Firebase Authentication.
+
+---
+
+## 🚀 Hướng dẫn cài đặt (Installation)
+Clone dự án về máy và chạy thông qua Terminal:
+
 ```bash
-flutter run
-```
+# 1. Clone code
+git clone [https://github.com/ca-xao-xa-ot/NongTraiXanh.git](https://github.com/ca-xao-xa-ot/NongTraiXanh.git)
 
-## Công nghệ
-- Flutter + Firebase Firestore (cloud save)
-- Provider state management
-- CustomPainter for farm rendering
+# 2. Cài đặt thư viện
+flutter pub get
+
+# 3. Chạy game (Khuyên dùng trên Chrome)
+flutter run -d chrome

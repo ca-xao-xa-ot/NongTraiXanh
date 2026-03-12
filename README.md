@@ -7,18 +7,18 @@
 
 **Nông Trại Xanh** là game nông trại 2D viết bằng Flutter, lấy cảm hứng từ phong cách *Stardew Valley*. Người chơi tiếp nhận mảnh đất từ bà ngoại, dần dần xây dựng nông trại, chăm sóc vật nuôi, câu cá, hoàn thành nhiệm vụ hằng ngày và leo cấp để mở khóa cây trồng & vật nuôi mới.
 
----
+
 
 > **"Chữa lành tâm hồn - Thử thách công nghệ."** 🌿
 >
 > Không chỉ dừng lại ở một tựa game mang nhịp độ chậm rãi giúp gác lại âu lo, Nông Trại Xanh còn là một bài toán công nghệ đầy thách thức. Bằng việc tối ưu triệt để **Flutter thuần**, nhóm đã "hô biến" một nền tảng thiết kế giao diện thành một cỗ máy vận hành Game 2D mượt mà ở mức 60FPS. Một hệ sinh thái hoàn chỉnh được dựng lên từ những dòng code nguyên bản nhất, hoàn toàn không phụ thuộc vào bất kỳ Game Engine đồ sộ nào.
 
----
+
 
 ## 🎮 Trải nghiệm ngay (Live Demo)
 👉 **Chơi trực tiếp trên Web (PC hoặc điện thoại):** [https://gamenongtraixanh.netlify.app/](https://gamenongtraixanh.netlify.app/)
 
----
+
 
 ## 🔥 NHỮNG ĐIỂM SÁNG KỸ THUẬT (Technical Highlights)
 Đây là những kỹ thuật cốt lõi giúp game vận hành mượt mà trên trình duyệt web dù chứa hàng trăm luồng dữ liệu phức tạp:
@@ -28,7 +28,7 @@
 * ☁️ **Thuật toán Debounce Save (Tối ưu API):** Thay vì lưu liên tục lên đám mây gây nghẽn mạng và tốn phí Firebase, game lưu tạm vào Local và chỉ "đẩy" đồng bộ lên Firestore mỗi **3 giây/lần** sau thao tác cuối cùng.
 * 🤖 **AI Chăn Nuôi (Roaming Logic):** Đàn vật nuôi (Gà, Bò, Cừu, Ngựa...) được lập trình AI di chuyển ngẫu nhiên ngộ nghĩnh, biết "đói" và tự động kích hoạt cơ chế sinh sản nông sản khi được người chơi cho ăn.
 
----
+
 
 ## 🌻 HỆ THỐNG GAMEPLAY CHI TIẾT
 
@@ -51,7 +51,7 @@ Không chỉ để trang trí, Ngôi nhà là một "cỗ máy" tăng cường s
 - **Nhiệm vụ ngẫu nhiên (Daily Quests):** Mỗi ngày hệ thống sẽ Random các nhiệm vụ (Câu cá, Thu hoạch) để người chơi cày Vàng và EXP.
 - **Bảng vàng (Leaderboard Real-time):** Dữ liệu được kéo trực tiếp từ Firebase liên tục, tôn vinh Top 20 tỷ phú nông dân chăm chỉ nhất server!
 
----
+
 
 ## 🎨 GIAO DIỆN (UI/UX)
 Giao diện được trau chuốt tỉ mỉ theo phong cách **Cute Pastel - Glassmorphism**:
@@ -59,7 +59,7 @@ Giao diện được trau chuốt tỉ mỉ theo phong cách **Cute Pastel - Gla
 - Màn hình NPC và đăng nhập có hiệu ứng mây trôi, sao lấp lánh và animation nổi bồng bềnh (Bounce effect).
 - Hiệu ứng Toast Notification và Badge cấp độ cực kỳ nịnh mắt.
 
----
+
 
 ## 🚀 HƯỚNG DẪN CÀI ĐẶT (Installation)
 
